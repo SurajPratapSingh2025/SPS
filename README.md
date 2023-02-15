@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpratapsingh2022&label=Profile%20views&color=0e75b6&style=flat" alt="surajpratapsingh2022" /> </p>
 
-- 🤯 I’m totally mad to learning programming.
+- 🤯 I’m totally mad to **learning programming**.
+- 🔭 I want to made **java developer**.
 - 📫 How to reach me **surajpratapsingh2022@gmail.com**
 
 <h3 align="left">🌱Programming Learning on the way:</h3>
