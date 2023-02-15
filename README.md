@@ -1,4 +1,4 @@
-<h1 align="center">Hey WhatApp !</h1>
+<h1 align="center">Hey What's Up !</h1>
 <h2 align="center">Here is Suraj Pratap Singh.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
