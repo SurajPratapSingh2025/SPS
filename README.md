@@ -22,7 +22,6 @@
 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=surajpratapsingh2022&show_icons=true&locale=en" alt="surajpratapsingh2022" />
 
-  &nbsp;
-  
+&nbsp;
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=surajpratapsingh2022&" alt="surajpratapsingh2022" />
 
