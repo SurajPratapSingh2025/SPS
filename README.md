@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpratapsingh2022&label=Profile%20views&color=0e75b6&style=flat" alt="surajpratapsingh2022" /> </p>
 
 To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.
-- 🤯 I’m totally mad to **learning programming**.
-- 🔭 Currently, I am looking for Java Developer job. 
+- 🔭 Currently, I am looking for Java Developer job.
+- 🤯 I’m always ready to learn **New Skills**.
 - 📫 How to reach me **surajpratapsingh2022@gmail.com**
 
 <h3 align="left">🌱Ongoing skills:</h3>
