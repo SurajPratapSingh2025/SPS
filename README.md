@@ -8,7 +8,7 @@
 - 🔭 I want to made **java developer**.
 - 📫 How to reach me **surajpratapsingh2022@gmail.com**
 
-<h3 align="left">🌱Programming Learning on the way:</h3>
+<h3 align="left">🌱Ongoing skills:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="react" width="40" height="40"/> </a> 
