@@ -1,10 +1,9 @@
 <h1 align="center">Suraj Pratap Singh</h1>
-<h4 align="left">To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpratapsingh2022&label=Profile%20views&color=0e75b6&style=flat" alt="surajpratapsingh2022" /> </p>
 
+To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.
 - 🤯 I’m totally mad to **learning programming**.
 - 🔭 Currently, I am looking for Java Developer job. 
 - 📫 How to reach me **surajpratapsingh2022@gmail.com**
