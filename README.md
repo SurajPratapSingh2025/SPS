@@ -13,7 +13,6 @@ To seek and maintain full-time position that offers professional challenges util
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="react" width="40" height="40"/> </a>
-  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
