@@ -11,7 +11,7 @@ To seek and maintain full-time position that offers professional challenges util
 <h3 align="left">🌱Ongoing skills:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="  https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="springBoot" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/> </a> 
