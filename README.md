@@ -14,7 +14,8 @@ To seek and maintain full-time position that offers professional challenges util
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="springBoot" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://spider-man-wiki.vercel.app/img/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.eccouncil.org/" target="_blank" rel="noreferrer"> <img src="https://examenotes.com/wp-content/uploads/2023/12/hacker.png" alt="Hacking" width="40" height="40"/> </a>
 </p>
 
 
