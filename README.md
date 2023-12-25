@@ -41,6 +41,6 @@ To seek and maintain full-time position that offers professional challenges util
 
 <img align="right" width= "375" src="https://github-readme-stats.vercel.app/api?username=surajpratapsingh2022&show_icons=true&locale=en" alt="surajpratapsingh2022" />        
                                             <br>    <br>    
-<img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" />
 
 
