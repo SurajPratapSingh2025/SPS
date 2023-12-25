@@ -33,7 +33,7 @@ To seek and maintain full-time position that offers professional challenges util
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p align="right" ></p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" />
 
 
 <h3 align="left">🌳Pro in tools:</h3>
