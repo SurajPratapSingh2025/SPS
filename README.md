@@ -19,6 +19,10 @@ To seek and maintain full-time position that offers professional challenges util
 </p>
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" />
+
+
+
 <h3 align="left">🌴Reach on completion & Now, i try to make pro:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a>
@@ -33,7 +37,6 @@ To seek and maintain full-time position that offers professional challenges util
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajpratapsingh2022&layout=compact&langs_count=8&card_width=320" alt="surajpratapsingh2022" />
 
 
 <h3 align="left">🌳Pro in tools:</h3>
